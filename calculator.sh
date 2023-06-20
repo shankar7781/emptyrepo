@@ -6,3 +6,6 @@ added subscription
 
 #
 added division
+
+#
+added multiplication
